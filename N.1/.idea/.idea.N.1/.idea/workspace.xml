@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ca8691d-5c15-4e75-8ee7-43b95f422518" name="Default Changelist" comment="Commit 1">
+    <list default="true" id="6ca8691d-5c15-4e75-8ee7-43b95f422518" name="Default Changelist" comment="Test">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.N.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.N.1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,13 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/N.1/Program.cs" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1hmFwLDF1S6KcaCTJGfvEzOID2j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,6 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -78,6 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600608597597</updated>
       <workItem from="1600608606494" duration="379000" />
+      <workItem from="1600898828667" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1600608912197</created>
@@ -86,13 +95,20 @@
       <option name="project" value="LOCAL" />
       <updated>1600608912197</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test">
+      <created>1600898928219</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600898928219</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -104,20 +120,31 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 1" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="521" y="272" key="Rider.ProjectTemplateDialog.Size" timestamp="1600608597491">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="521" y="272" key="Rider.ProjectTemplateDialog.Size/0.0.1858.1080/1982.0.1218.1024@0.0.1858.1080" timestamp="1600608597491" />
-    <state x="521" y="273" key="Vcs.Push.Dialog.v2" timestamp="1600608924969">
-      <screen x="0" y="0" width="1858" height="1080" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1600899039747">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600899039747" />
+    <state x="100" y="100" width="1240" height="700" key="VCS.FileHistoryDialog" timestamp="1600899157822">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="VCS.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1600899157822" />
+    <state x="404" y="228" key="Vcs.Push.Dialog.v2" timestamp="1600898940995">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="404" y="228" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600898940995" />
     <state x="521" y="273" key="Vcs.Push.Dialog.v2/0.0.1858.1080/1982.0.1218.1024@0.0.1858.1080" timestamp="1600608924969" />
     <state x="746" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600608866845">
       <screen x="0" y="0" width="1858" height="1080" />
