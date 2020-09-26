@@ -6,7 +6,13 @@ namespace N._1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello!");
+            double liczba1;
+            double liczba2;
+            liczba1 = 14.5;
+            liczba2 = 24.45;
+
+            Console.Write(liczba1 + "\n" );
+            Console.Write(liczba2);
         }
     }
 }
